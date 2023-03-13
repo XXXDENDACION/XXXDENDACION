@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in web technologies
-- 📫 How to reach me in telegram: @choppaflex
+- 📫 How to reach me in telegram: https://t.me/smirnov_dev
 - Links: 
   - [Monkeytype](https://monkeytype.com/account)
   - [Leetcode](https://leetcode.com/icesfrost/)
